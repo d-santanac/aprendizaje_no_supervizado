@@ -1,2 +1,2 @@
 # aprendizaje_no_supervizado
-Laboratorio del curso de Aprendizaje No Supervisado
+En este repositorio se almacenan los laboratorios y talleres realizados en la materia de Aprendizaje No supervizado.
